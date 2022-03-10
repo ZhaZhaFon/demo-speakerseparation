@@ -1,14 +1,12 @@
-# <center> Speaker Separation and Machine Auditory Perception System for Dialogue Scene </center>
+# <center>对话场景说话人分离与理解关键技术研究</center>
 
-<center> Zifeng Zhao, Lifeng Zhu </center> 
+<center>招梓枫<sup>1, *</sup>, 朱利丰<sup>1, 2</sup></center> 
 
-<center> XR Lab, Southeast University, Nanjing, China </center>
+<center> 1 机器人传感与控制研究所, 东南大学, 南京 </center>
 
-<center> Tencent AI Lab </center>
+<center> 2 生物电子学国家重点实验室 </center>
 
-* Equal contribution and work done during internship at Tencent AI Lab.
-
-## Introduction
+## 介绍
 Singing voice conversion (SVC) is one promising technique which can enrich the way of human-computer interaction by endowing a computer the ability to produce high-fidelity and expressive singing voice.
 In this paper, we propose DiffSVC, an SVC system based on denoising diffusion probabilistic model. DiffSVC uses phonetic posteriorgrams (PPGs) as content features. A denoising module is trained in DiffSVC, which takes destroyed mel spectrogram produced by the diffusion/forward process and its corresponding step information as input to predict the added Gaussian noise. We use PPGs, fundamental frequency features and loudness features as auxiliary input to assist the denoising process. Experiments show that DiffSVC can achieve superior conversion performance in terms of naturalness and voice similarity to current state-of-the-art SVC approaches.
 
