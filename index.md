@@ -4,7 +4,7 @@
 
 <center> 1 机器人传感与控制研究所, 东南大学, 南京 </center>
 
-<center> 2 生物电子学国家重点实验室 </center>
+<center> 2 生物电子学国家重点实验室, 东南大学, 南京 </center>
 
 ## 介绍
 Singing voice conversion (SVC) is one promising technique which can enrich the way of human-computer interaction by endowing a computer the ability to produce high-fidelity and expressive singing voice.
