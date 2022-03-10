@@ -1,6 +1,6 @@
 # <center>对话场景说话人分离与理解关键技术研究</center>
 
-<center>招梓枫<sup>1, *</sup>, 朱利丰<sup>1, 2</sup></center> 
+<center>招梓枫<sup>1</sup>, 朱利丰<sup>1, 2</sup></center> 
 
 <center> 1 机器人传感与控制研究所, 东南大学, 南京 </center>
 
@@ -44,3 +44,10 @@ In this paper, we propose DiffSVC, an SVC system based on denoising diffusion pr
 | --- | --- | --- |
 | <audio src="wavs/source/9.wav" controls preload></audio> | <audio src="wavs/fastsvc/9.wav" controls preload></audio> | <audio src="wavs/diffsvc/9.wav" controls preload></audio> | 
 | --- | --- | --- |
+
+## 链接
+
+[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)]
+
+## 参考资料
+
