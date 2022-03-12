@@ -12,11 +12,19 @@ In this paper, we propose DiffSVC, an SVC system based on denoising diffusion pr
 
 ## 效果演示
 
-| <center>分离Hillary Cliton</center> | <center>分离Donald Trump</center> | <center>原始视频 </center>|
-| :--- | :--- | :--- |
-|<video id="video" controls preload poster="封面"><source id="mp4" src="https://github.com/ZhaZhaFon/demo-speakerseparation/blob/gh-pages/mp4/mix1.mp4" type="video/mp4"></videos>｜|<video id="video" controls="" preload="none" poster="封面"><source id="mp4" src="mp4/mix_s2.mp4" type="video/mp4"></videos>｜|<video id="video" controls="" preload="none" poster="封面"><source id="mp4" src="mp4/mix_s2.mp4" type="video/mp4"></videos>｜
+#### 2说话人语音分离
 
-https://github.com/ZhaZhaFon/demo-speakerseparation/blob/gh-pages/mp4/mix1.mp4
+* 分离Hillary Clinton  
+
+https://user-images.githubusercontent.com/87401944/158022952-ce15ce3f-3867-4e5f-897f-544be3a96028.mp4 
+
+* 分离Donal Trump  
+
+https://user-images.githubusercontent.com/87401944/158022954-6ccc6c05-3d8b-4a2b-9560-05d8e8f022b2.mp4
+
+* 原始视频  
+
+https://user-images.githubusercontent.com/87401944/158022959-446d2e86-1aba-4ace-a6fa-f4f105f973b1.mp4
 
 ## Model Overview
 <img src="imgs/model.png" alt="Overall Architecture" />
