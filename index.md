@@ -22,7 +22,7 @@
 如下图所示，本课题在说话人分离的研究基础上，有机结合语音重叠检测、说话人分割(SD)、活动音检测(VAD)、说话人分离(SS)等前端处理模块，以及语音识别(ASR)、声纹识别(SV)、语音情感识别等后端识别模块构建了一个面向对话场景的机器听觉感知综合系统，对视频理解分析、智能机器人、自然人机交互、智能助听设备设计等应用有一定参考意义。
 
 <div align=center>
-  <img src="fig/pipeline.png" width="500" height=auto />
+  <img src="fig/pipeline.png" width="580" height=auto />
 </div>
 <center>
   <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">对话场景机器听觉感知与理解系统</div>
