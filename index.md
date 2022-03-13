@@ -1,10 +1,12 @@
 # <center>对话场景说话人分离与理解关键技术研究</center>
 
-<center>招梓枫<sup>1</sup>, 朱利丰<sup>1, 2</sup></center> 
+<center>招梓枫<sup>1, 2</sup>, 朱利丰<sup>1, 3</sup></center> 
 
 <center> 1 机器人传感与控制研究所, 东南大学, 南京 </center>
 
-<center> 2 生物电子学国家重点实验室, 东南大学, 南京 </center>
+<center> 2 旷视研究院, 旷视科技MEGVII, 北京 </center>
+
+<center> 3 生物电子学国家重点实验室, 东南大学, 南京 </center>
 
 ## 介绍
 
@@ -57,7 +59,7 @@ https://user-images.githubusercontent.com/87401944/158050624-37ab323d-f657-41e5-
 
 ## 链接
 
-[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-speakerseparation)]
+[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[旷视研究院](https://research.megvii.com/about)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-speakerseparation)]
 
 ## 参考资料
 
