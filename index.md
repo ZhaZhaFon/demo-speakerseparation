@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/87401944/158050624-37ab323d-f657-41e5-
 
 [1] Pariente M, Cornell S, Cosentino J, et al. Asteroid: the PyTorch-based audio source separation toolkit for researchers[J]. arXiv preprint arXiv:2005.04132, 2020.  
 [2] Bredin H, Yin R, Coria J M, et al. Pyannote. audio: neural building blocks for speaker diarization[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 7124-7128.   
-[3] Silero Team. Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier. GitHub repository 2021
+[3] Silero Team. Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier. GitHub repository 2021  
 [4] Luo Y, Mesgarani N. Conv-tasnet: Surpassing ideal time–frequency magnitude masking for speech separation[J]. IEEE/ACM transactions on audio, speech, and language processing, 2019, 27(8): 1256-1266.  
 [5] Desplanques B, Thienpondt J, Demuynck K. Ecapa-tdnn: Emphasized channel attention, propagation and aggregation in tdnn based speaker verification[J]. arXiv preprint arXiv:2005.07143, 2020.  
  
