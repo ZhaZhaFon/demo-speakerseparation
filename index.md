@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/87401944/158050624-37ab323d-f657-41e5-
 
 ## 链接
 
-[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)] [Demo GitHub](https://github.com/ZhaZhaFon/demo-speakerseparation)
+[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-speakerseparation)]
 
 ## 参考资料
 
