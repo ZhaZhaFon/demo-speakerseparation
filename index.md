@@ -34,21 +34,9 @@ https://user-images.githubusercontent.com/87401944/158050631-9704acbd-d84a-4079-
 https://user-images.githubusercontent.com/87401944/158050624-37ab323d-f657-41e5-8086-07e944a73b57.mp4
 -->
 
-* 分离Hillary Clinton  
-
-https://user-images.githubusercontent.com/87401944/158022952-ce15ce3f-3867-4e5f-897f-544be3a96028.mp4 
-
-* 分离Donal Trump  
-
-https://user-images.githubusercontent.com/87401944/158022954-6ccc6c05-3d8b-4a2b-9560-05d8e8f022b2.mp4
-
-* 原始视频  
-
-https://user-images.githubusercontent.com/87401944/158022959-446d2e86-1aba-4ace-a6fa-f4f105f973b1.mp4
-
 ## 链接
 
-[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)]
+[[机器人传感与控制研究所](https://ins.seu.edu.cn/26900/list2.htm)] [[生物电子学国家重点实验室](https://sklb.seu.edu.cn/18466/list.htm)] [Demo GitHub](https://github.com/ZhaZhaFon/demo-speakerseparation)
 
 ## 参考资料
 
