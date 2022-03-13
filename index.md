@@ -12,7 +12,7 @@
 
 本课题着重研究了前沿单通道说话人分离方法在贴近真实环境的对话场景中所存在的问题。为了测试分离方法在对话场景中的表现，本课题基于2016年美国总统大选的电视辩论制作了测试语料，使用真实的对话语料取代以往的播音数据与朗读文本;本课题自建了采样条件更丰富、说话人分布更多样的大规模语料库用于深度网络的训练，有效地减小了模型的跨数据集评估衰减，提高了单通道分离方法在对话场景中的泛化性能。
 
-如下图所示，本课题在说话人分离的研究基础上，有机结合语音重叠检测、说话人分割、活动音检测(VAD)、说话人分离等前端模块，以及语音识别(ASR)、说话人状态识别等后端模块构建了一个面向对话场景的机器听觉感知综合系统，对视频理解分析、智能机器人、自然人机交互、智能助听设备设计等应用有一定参考意义。
+如下图所示，本课题在说话人分离的研究基础上，有机结合语音重叠检测、说话人分割(SD)、活动音检测(VAD)、说话人分离(SS)等前端处理模块，以及语音识别(ASR)、声纹识别(SV)、语音情感识别等后端识别模块构建了一个面向对话场景的机器听觉感知综合系统，对视频理解分析、智能机器人、自然人机交互、智能助听设备设计等应用有一定参考意义。
 
 <center><img src="fig/pipeline.png"/></center>
 
@@ -49,3 +49,9 @@ https://user-images.githubusercontent.com/87401944/158050624-37ab323d-f657-41e5-
 
 ## 参考资料
 
+[1] Pariente M, Cornell S, Cosentino J, et al. Asteroid: the PyTorch-based audio source separation toolkit for researchers[J]. arXiv preprint arXiv:2005.04132, 2020.  
+[2] Bredin H, Yin R, Coria J M, et al. Pyannote. audio: neural building blocks for speaker diarization[C]//ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 7124-7128.   
+[3] Silero Team. Silero VAD: pre-trained enterprise-grade Voice Activity Detector (VAD), Number Detector and Language Classifier. GitHub repository 2021
+[4] Luo Y, Mesgarani N. Conv-tasnet: Surpassing ideal time–frequency magnitude masking for speech separation[J]. IEEE/ACM transactions on audio, speech, and language processing, 2019, 27(8): 1256-1266.  
+[5] Desplanques B, Thienpondt J, Demuynck K. Ecapa-tdnn: Emphasized channel attention, propagation and aggregation in tdnn based speaker verification[J]. arXiv preprint arXiv:2005.07143, 2020.  
+ 
