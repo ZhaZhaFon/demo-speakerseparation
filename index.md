@@ -16,8 +16,16 @@ In this paper, we propose DiffSVC, an SVC system based on denoising diffusion pr
 
 | 分离Hillary Clinton | 分离Donal Trump | 原始视频 |
 | :--- | :--- | :--- |
-| <video id="video" controls preload poster="封面"><source id="mp4" src="https://github.com/ZhaZhaFon/demo-speakerseparation/blob/gh-pages/mp4/mix1.mp4" type="video/mp4"></videos>| - | - |
+| <video id="video" controls preload poster=""><source id="mp4" src="https://user-images.githubusercontent.com/87401944/158050310-b2ac9e8d-af49-4f49-952d-daf7e26a9874.mp4" type="video/mp4"></videos>| - | - |
 
+
+https://user-images.githubusercontent.com/87401944/158050264-d92fb19b-fd1a-48ba-842a-cb50e7a6e5a7.mp4
+
+
+https://user-images.githubusercontent.com/87401944/158050310-b2ac9e8d-af49-4f49-952d-daf7e26a9874.mp4
+
+
+https://user-images.githubusercontent.com/87401944/158050314-614f801e-ca74-4b17-8ce4-ea1b79f81908.mp4
 
 * 分离Hillary Clinton  
 
