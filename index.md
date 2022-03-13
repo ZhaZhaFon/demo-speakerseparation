@@ -30,7 +30,7 @@
 
 ## 效果演示
 
-#### 2说话人语音分离与识别
+#### 2说话人语音分离与识别 (视频选自2016年美国总统大选电视辩论)
 
 | <center>分离Hillary Clinton (屏蔽Donald Trump)</center> | <center>分离Donald Trump (屏蔽Hillary Clinton)</center> | <center>原始视频</center> |
 | :--- | :--- | :--- |
